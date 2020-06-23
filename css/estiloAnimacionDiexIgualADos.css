@@ -1,0 +1,378 @@
+﻿#caja {
+    border-style: groove;
+    border-color: grey;
+    border-width: 10px;
+    width: 150px;
+    height: 70px;
+    position: relative;
+}
+
+#punto {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+}
+
+#parteNumero1 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#parteNumero2 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 10px;
+    left: 40px;
+}
+
+#parteNumero3 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 10px;
+    left: 50px;
+}
+
+#parteNumero4 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 10px;
+    left: 110px;
+}
+
+#parteNumero5 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 10px;
+    left: 120px;
+}
+
+#parteNumero6 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 10px;
+    left: 130px;
+}
+
+#parteNumero7 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+
+#parteNumero8 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+
+#parteNumero9 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 20px;
+    left: 60px;
+}
+
+#parteNumero10 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 20px;
+    left: 80px;
+}
+
+#parteNumero11 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 20px;
+    left: 90px;
+}
+
+#parteNumero12 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 20px;
+    left: 130px;
+}
+
+#parteNumero13 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 30px;
+    left: 10px;
+}
+
+#parteNumero14 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+#parteNumero15 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 30px;
+    left: 60px;
+}
+
+#parteNumero16 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 30px;
+    left: 110px;
+}
+
+#parteNumero17 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 30px;
+    left: 120px;
+}
+
+#parteNumero18 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 30px;
+    left: 130px;
+}
+
+#parteNumero19 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 40px;
+    left: 10px;
+}
+
+#parteNumero20 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 40px;
+    left: 30px;
+}
+
+#parteNumero21 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 40px;
+    left: 60px;
+}
+
+#parteNumero22 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 40px;
+    left: 80px;
+}
+
+#parteNumero23 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 40px;
+    left: 90px;
+}
+
+#parteNumero24 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 40px;
+    left: 110px;
+}
+
+#parteNumero25 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 50px;
+    left: 10px;
+}
+
+#parteNumero26 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 50px;
+    left: 40px;
+}
+
+#parteNumero27 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+#parteNumero28 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 50px;
+    left: 110px;
+}
+
+#parteNumero29 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 50px;
+    left: 120px;
+}
+
+#parteNumero30 {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 10px;
+    height: 10px;
+    background: white;
+    position: absolute;
+    top: 50px;
+    left: 130px;
+}
